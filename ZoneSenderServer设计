@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T02:45:29.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="xvILtlugGwhFFPYZgTnY" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T02:45:45.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qRPE_xlr1TrIyA0fxQQw" version="16.4.5" type="github">
   <diagram id="So8Rr6meg3QIxQ4aScXu" name="Page-1">
     <mxGraphModel dx="877" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,18 @@
         <mxCell id="ExpJgBsxUA_Lgmd_JzkC-13" value="HTTP&lt;br&gt;控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ExpJgBsxUA_Lgmd_JzkC-12">
           <mxGeometry x="0.3674" y="2" relative="1" as="geometry">
             <mxPoint x="5" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExpJgBsxUA_Lgmd_JzkC-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ExpJgBsxUA_Lgmd_JzkC-9" target="ExpJgBsxUA_Lgmd_JzkC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExpJgBsxUA_Lgmd_JzkC-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExpJgBsxUA_Lgmd_JzkC-10" target="ExpJgBsxUA_Lgmd_JzkC-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="430" as="sourcePoint" />
+            <mxPoint x="265" y="392.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
