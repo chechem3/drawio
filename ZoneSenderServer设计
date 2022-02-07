@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:54:11.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Iz1kIylh8yuP5S_t8aZ5" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T04:56:13.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1uCG2Rpk1fjZU-rknFHz" version="16.4.5" type="github">
   <diagram id="So8Rr6meg3QIxQ4aScXu" name="Page-1">
-    <mxGraphModel dx="1527" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,32 +53,35 @@
             <mxPoint x="225" y="192.17000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-1" value="CANStack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-1" value="CANStack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="850" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-2" value="LinStack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-2" value="LinStack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="850" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-3" value="SomeIpStack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-3" value="SomeIpStack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="850" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-4" value="Log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="740" width="116" height="52.17" as="geometry" />
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-4" value="Log" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-5" value="CanParser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="740" width="116" height="52.17" as="geometry" />
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-5" value="CanParser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-6" value="LinParser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="740" width="116" height="52.17" as="geometry" />
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-6" value="LinParser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="770" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-7" value="SomeIpParser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="740" width="116" height="52.17" as="geometry" />
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-7" value="SomeIpParser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="470" y="770" width="116" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-8" value="Web App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="630" width="140" height="52.17" as="geometry" />
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-8" value="Web App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="540" height="52.17" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-9" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-9" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="920" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-15" value="Localhost Socket + RPC 库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="722.17" width="540" height="27.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
