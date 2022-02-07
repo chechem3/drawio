@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T04:56:13.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1uCG2Rpk1fjZU-rknFHz" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T06:17:53.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="TxrhAGw8NhY54ZxwQtgg" version="16.4.5" type="github">
   <diagram id="So8Rr6meg3QIxQ4aScXu" name="Page-1">
-    <mxGraphModel dx="1146" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="JizaItc3Ukhl5dvdpY_j-9" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="920" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JizaItc3Ukhl5dvdpY_j-15" value="Localhost Socket + RPC 库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="JizaItc3Ukhl5dvdpY_j-15" value="Localhost Socket TCP + RPC 库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="190" y="722.17" width="540" height="27.83" as="geometry" />
         </mxCell>
       </root>
